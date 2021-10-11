@@ -13,7 +13,7 @@
   <img align="center" alt="Kaka-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kaka-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kaka-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/>
-  <img align="right" alt="Kaka-pic" height="150" style="border-radius:50px;" src="https://github.com/karenbanci/Imagens-Teste/blob/main/conversor.jpg?raw=true">
+  <img align="right" alt="Kaka-pic" height="150" style="border-radius:50px;" src="https://github.com/karenbanci/Imagens-Teste/blob/main/Captura%20de%20Tela%202021-10-11%20a%CC%80s%2015.59.55.png?raw=true">
 </div>
    
   ##
