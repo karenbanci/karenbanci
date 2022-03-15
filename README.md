@@ -1,6 +1,6 @@
-- Olá, sou a Kaká Banci
-- Adoro jogar games
-- Estou aprendendo linguagens de programação
+- Hi, My name is Karen, you can call me Kaká
+- Graduated in Bachelor and Degree in Chemistry, previously trained as a Chemistry Technician with over 10 years in the field, I decided to go out of my comfort zone to challenge myself in Software Development. I loved it.
+- I'm from Brazil but I've living in Mountain View
 
 
 <div>
