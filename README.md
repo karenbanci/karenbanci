@@ -1,6 +1,6 @@
 - Hi, My name is Karen, you can call me Kaká
 - Graduated in Bachelor and Degree in Chemistry and worked over 10 years in the field, I decided to go out of my comfort zone to challenge myself in Software Development. I loved it.
-- I'm from Brazil but I've lived in Mountain View
+- I'm from Brazil but I've lived in Mountain View since February 2022
 
 
 <div>
