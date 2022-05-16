@@ -1,6 +1,12 @@
-- Hi, My name is Karen, you can call me Kaká
-- I'm from Brazil but I've lived in Mountain View since February 2022
-- I have a degree in Chemistry and worked over 10 years in the field, I decided to go out of my comfort zone to challenge myself in Software Development. I loved it.
+# About me
+const karen = {
+  nationality: "São Bernardo do Campo, SP 🇧🇷",
+  currentlyLiving: "Mountain View, CA 🇺🇸",
+  courses: ["Le Wagon", "Front-end Engineer on Codecademy"],
+  knowledgeFrontEnd: [ "JavaScript", "React", "Redux", "HTML", "CSS", "NodeJS"],
+  knowledgeBackEnd: [ "RubyOnRails", "DataBase", "PostgreSQL", "SQlite"],
+  college: ["bachelor's degree in Chemistry"]
+}
 
 <div>
   <a href="https://github.com/karenbanci">
