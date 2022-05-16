@@ -1,4 +1,9 @@
-# About me
+# Hi there <img alt="gif hello" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
+
+
+# :woman_technologist: About me
+
+```javascript
 const karen = {
   nationality: "São Bernardo do Campo, SP 🇧🇷",
   currentlyLiving: "Mountain View, CA 🇺🇸",
@@ -7,6 +12,9 @@ const karen = {
   knowledgeBackEnd: [ "RubyOnRails", "DataBase", "PostgreSQL", "SQlite"],
   college: ["bachelor's degree in Chemistry"]
 }
+```
+
+
 
 <div>
   <a href="https://github.com/karenbanci">
