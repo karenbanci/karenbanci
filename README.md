@@ -5,7 +5,7 @@
 
 ```javascript
 const karen = {
-  nationality: "São Bernardo do Campo, SP 🇧🇷",
+  nationality: "Brazil 🇧🇷",
   currentlyLiving: "Mountain View, CA 🇺🇸",
   courses: ["Le Wagon", "Front-end Engineer on Codecademy"],
   knowledgeFrontEnd: [ "JavaScript", "React", "Redux", "HTML", "CSS", "NodeJS"],
