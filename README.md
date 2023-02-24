@@ -8,7 +8,7 @@ const karen = {
   nationality: "Brazil 🇧🇷",
   currentlyLiving: "Mountain View, CA 🇺🇸",
   courses: ["Le Wagon", "Front-end Engineer on Codecademy"],
-  knowledgeFrontEnd: [ "JavaScript", "React", "Redux", "HTML", "CSS", "NodeJS"],
+  knowledgeFrontEnd: [ "JavaScript", "React", "Redux", "HTML", "CSS", "NodeJS", "Python", "ThreeJs"],
   knowledgeBackEnd: [ "RubyOnRails", "DataBase", "PostgreSQL", "SQlite"],
   college: ["bachelor's degree in Chemistry"]
 }
